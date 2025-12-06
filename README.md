@@ -35,8 +35,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyz" alt="xyz" /></a> </p>
 
-<p align="center">
 ### 📊 GitHub Stats:
+<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=SUDHARSHAN-RKCV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SUDHARSHAN-RKCV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSHAN-RKCV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

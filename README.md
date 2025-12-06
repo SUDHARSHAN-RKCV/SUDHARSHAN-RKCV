@@ -36,7 +36,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SUDHARSHAN-RKCV&" alt="SUDHARSHAN-RKCV-ststs" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUDHARSHAN-RKCV&" alt="SUDHARSHAN-RKCV-stats" /></p>
 
-<p align="center">
+
 
 ![](https://github-readme-stats.vercel.app/api?username=SUDHARSHAN-RKCV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SUDHARSHAN-RKCV&theme=dark&hide_border=false)<br/>
@@ -50,4 +50,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDHARSHAN-RKCV&icon=4&color=8)](https://visitcount.itsvg.in)
-</p>
+

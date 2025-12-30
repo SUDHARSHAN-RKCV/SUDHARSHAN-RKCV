@@ -1,8 +1,8 @@
 <h2 align="center">A passionate Sec-DEVOps Engineer</h2>
 
-- 🔭 I’m currently working on [xyz](xyz)
+- 🔭 I’m currently working on fullstack-CyberSec-devops
 
-- 🌱 I’m currently learning **xyz**
+- 🌱 I’m currently learning devops 
 
 ## 🌐 Socials:
 <p align="left">

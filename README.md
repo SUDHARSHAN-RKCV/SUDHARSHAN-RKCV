@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on fullstack-CyberSec-devops
 
-- 🌱 I’m currently learning devops 
+- 🌱 I’m currently enahancing my skills from defencive to offensive Cyber sec 
 
 ## 🌐 Socials:
 <p align="left">

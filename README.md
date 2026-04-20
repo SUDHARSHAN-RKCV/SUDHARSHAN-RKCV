@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║          SUDHARSHAN-RKCV :: SEC-DEVOPS ENGINEER       ║
-║          fullstack · cybersec · cloud · offensive     ║
-╚═══════════════════════════════════════════════════════╝
+                      ╔═══════════════════════════════════════════════════════╗
+                      ║          SUDHARSHAN-RKCV :: SEC-DEVOPS ENGINEER       ║
+                      ║          fullstack · cybersec · cloud · offensive     ║
+                      ╚═══════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=1E8A6E&center=true&vCenter=true&width=500&lines=Sec-DevOps+Engineer+%F0%9F%94%90;Defensive+%E2%86%92+Offensive+CyberSec;Fullstack+%2B+Cloud+%2B+Containers;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
@@ -39,7 +39,6 @@ stack    : cloud · containers · siem · pipelines
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,7 +49,8 @@ stack    : cloud · containers · siem · pipelines
 ![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Datadog](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Dynatrace](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### 🐍 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

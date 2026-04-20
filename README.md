@@ -2,8 +2,8 @@
 
 ```
                                   ╔═══════════════════════════════════════════════════════╗
-                                  ║          SUDHARSHAN-RKCV :: SEC-DEVOPS ENGINEER       ║
-                                  ║          fullstack · cybersec · cloud · offensive     ║
+                                  ║          SUDHARSHAN :: SEC-DEVOPS ENGINEER            ║
+                                  ║          fullstack · offensive cybersec · cloud ·     ║
                                   ╚═══════════════════════════════════════════════════════╝
 ```
 

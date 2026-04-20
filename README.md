@@ -1,11 +1,5 @@
 <div align="center">
-
-```
-                                  ╔═══════════════════════════════════════════════════════╗
-                                  ║          SUDHARSHAN :: DEV-SecOps ENGINEER            ║
-                                  ║          fullstack · offensive cybersec · cloud ·     ║
-                                  ╚═══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=99999999&pause=99999999&color=1E8A6E&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=80&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++++SUDHARSHAN-RKCV+%3A%3A+SEC-DEVOPS+ENGINEER+++++++%E2%95%91;%E2%95%91++++fullstack+%C2%B7+cybersec+%C2%B7+cloud+%C2%B7+offensive+++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=1E8A6E&center=true&vCenter=true&width=500&lines=DEV-SecOps+Engineer+%F0%9F%94%90;Defensive+%E2%86%92+Offensive+CyberSec;Fullstack+%2B+Cloud+%2B+Containers;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
 

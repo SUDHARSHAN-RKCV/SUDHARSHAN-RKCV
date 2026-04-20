@@ -2,12 +2,12 @@
 
 ```
                                   ╔═══════════════════════════════════════════════════════╗
-                                  ║          SUDHARSHAN :: SEC-DEVOPS ENGINEER            ║
+                                  ║          SUDHARSHAN :: DEV-SecOps ENGINEER            ║
                                   ║          fullstack · offensive cybersec · cloud ·     ║
                                   ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=1E8A6E&center=true&vCenter=true&width=500&lines=Sec-DevOps+Engineer+%F0%9F%94%90;Defensive+%E2%86%92+Offensive+CyberSec;Fullstack+%2B+Cloud+%2B+Containers;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=1E8A6E&center=true&vCenter=true&width=500&lines=DEV-SecOps+Engineer+%F0%9F%94%90;Defensive+%E2%86%92+Offensive+CyberSec;Fullstack+%2B+Cloud+%2B+Containers;Building+secure+systems+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,8 @@
 
 ```yaml
 name     : SUDHARSHAN
-role     : Sec-DevOps Engineer
-focus    : fullstack-CyberSec-devops
+role     : DEV-SecOps Engineer
+focus    : fullstack-CyberDEV-SecOps
 learning : defensive → offensive cybersecurity
 stack    : cloud · containers · siem · pipelines
 ```
@@ -27,7 +27,7 @@ stack    : cloud · containers · siem · pipelines
 
 ## `> current_ops`
 
-- 🔭 Working on **fullstack-CyberSec-devops** projects
+- 🔭 Working on **fullstack-CyberDEV-SecOps** projects
 - 🌱 Enhancing skills from **defensive → offensive** CyberSec
 - 🛡️ Bridging the gap between **secure development** and **active red-teaming**
 - ☁️ Operating across **AWS · Azure · GCP**

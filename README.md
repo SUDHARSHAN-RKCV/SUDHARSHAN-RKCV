@@ -16,7 +16,7 @@
 ## `> whoami`
 
 ```yaml
-name     : SUDHARSHAN-RKCV
+name     : SUDHARSHAN
 role     : Sec-DevOps Engineer
 focus    : fullstack-CyberSec-devops
 learning : defensive → offensive cybersecurity

@@ -114,6 +114,31 @@ stack    : cloud · containers · siem · pipelines
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+## `> featured_work`
+
+**🏠 Home SOC Lab** — from-scratch detection lab (VirtualBox), no pre-built bundles
+Elastic stack (Elasticsearch/Logstash/Kibana/Agent) + Sysmon (Win) + auditd (Linux) + Suricata NIDS, built manually to understand every layer. Feeding into eCIR prep.
+
+**🔐 Scipher Gaurdz** — internal Flask/PostgreSQL app with multi-layer access control
+Flask-Login auth, defense-in-depth admin-deletion protection (Jinja2 + route + DB triggers), Datadog RUM integration. Full code review + iterative hardening pass.
+
+**🔑 Password Strength Module** — NIST-aligned scoring engine (JS + Python)
+Entropy scoring, crack-time estimation, sequential-pattern detection fix, terminal-aesthetic demo UI.
+
+**📊 OODA Orchestrator** — full-stack app orchestration dashboard
+Live metrics, environment filtering, agent management, OTP-based 2FA — built solo end to end.
+
+> More write-ups and CTF walkthroughs coming as the offensive-security lab work progresses.
+
+---
+
+## `> offsec_track`
+
+```yaml
+current   : web-app pentest labs (INE/eLearnSecurity) — command injection, auth bypass, priv-esc
+practice  : HackTheBox · PentestGarage · AttackDefense
+targeting : eCIR + eCPPT (Q2 2027) → OSCP (Q4 2027)
+```
 
 <div align="center">
 

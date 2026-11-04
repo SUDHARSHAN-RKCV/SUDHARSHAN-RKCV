@@ -13,10 +13,10 @@ stack    : Python · Active Directory · SIEM/EDR Telemetry · Cloud Infrastruct
 
 ## `> current_ops`
 
-- 🔭 **Targeting Full-Time Offensive / Penetration Testing Roles** in Bengaluru.
+- 🔭 **Targeting Full-Time Offensive / Penetration Testing Roles**.
 - 🛠️ Engineering **custom security automation tooling** using Python to streamline vulnerability checks and log analysis.
 - 🛡️ Building unguided exploits to bypass defensive controls, endpoint telemetry, and SIEM alerting structures.
-- 📜 Cert Track: **eCPPT & eCIR** (Targets: Jan 2027) ➡️ **OSCP** (Target: Mid-2027) ➡️ **OSEP** (12-14 Month Aggressive Track).
+- 📜 Cert Track: **eCPPT & eCIR** (Targets: Jan 2027) ➡️ **OSCP** (Target: Mid-2027) ➡️ **OSEP** (2027).
 
 ---
 

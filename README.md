@@ -25,7 +25,7 @@ stack    : Python · Active Directory · SIEM/EDR Telemetry · Cloud Infrastruct
 ### 💥 Offensive Security & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/:packageName)
+![PowerShell]
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔐 Monitoring, Telemetry & Defense
